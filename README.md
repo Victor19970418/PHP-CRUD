@@ -1,9 +1,5 @@
 # PHP-CRUD
-<<<<<<< HEAD
-LAB HW(版本還原加修改))
-=======
-LAB HW(REST TEST)
->>>>>>> 9ee93d9b05c05638e72603c43031d011b03c06af
+LAB HW(版本測試)
 **網頁作業**  
 ．網頁架構：PHP+JavaScript or JQuery+AJAX  
 ．伺服器：Apache  
