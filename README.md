@@ -1,5 +1,5 @@
 # PHP-CRUD
-LAB HW(切換分支)
+LAB HW(版本還原加修改))
 **網頁作業**  
 ．網頁架構：PHP+JavaScript or JQuery+AJAX  
 ．伺服器：Apache  
