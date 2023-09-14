@@ -1,5 +1,5 @@
 # PHP-CRUD
-LAB HW(REST TEST)
+LAB HW(衝突測試)
 **網頁作業**  
 ．網頁架構：PHP+JavaScript or JQuery+AJAX  
 ．伺服器：Apache  
