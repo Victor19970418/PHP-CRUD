@@ -1,5 +1,5 @@
 # PHP-CRUD
-LAB HW(第二分支)  
+LAB HW(分支測試)  
 **網頁作業**  
 ．網頁架構：PHP+JavaScript or JQuery+AJAX  
 ．伺服器：Apache  
