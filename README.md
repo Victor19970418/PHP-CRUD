@@ -1,5 +1,6 @@
 # PHP-CRUD
-LAB HW(PULL)  
+LAB HW(PULL) 
+.... 
 **網頁作業**  
 ．網頁架構：PHP+JavaScript or JQuery+AJAX  
 ．伺服器：Apache  
